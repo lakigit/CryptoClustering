@@ -32,7 +32,7 @@ In this challenge, use knowledge of Python and unsupervised learning to predict 
 Based on the analysis, it can be seen that the columns price_change_percentage_200d, price_change_percentage_1y, and price_change_percentage_24h contribute significantly to the first principal component with 59%, 57%, and 42%, respectively. Similarly, price_change_percentage_14d, price_change_percentage_30d, and price_change_percentage_60d make a high contribution to the second principal component with 54%, 56%, and 43%, respectively. Lastly, price_change_percentage_7d makes the biggest contribution of 79% to the third principal component.
 
 ## Find the Best Value for k using PCA Data
-   Use the Elbow method to find the optimal value for k and it gives the same value of 4 as the original data. 
+   Use the elbow method to find the optimal value for k, which gives the same result of 4 as before. 
    ![image](https://github.com/lakigit/CryptoClustering/assets/138610916/f28a332f-f362-43f1-af3f-5b48fefebdeb)
 
 ## Cluster Cryptocurrencies with K-means Using the PCA Data
