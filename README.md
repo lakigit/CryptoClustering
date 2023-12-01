@@ -20,3 +20,6 @@ In this challenge, use knowledge of Python and unsupervised learning to predict 
    
    However, if we can see four clusters cluster no 1 lay down on between cluster no 0. 
    However, upon closer inspection, it appears that the data points in cluster number 1 overlap with those in cluster number 0, suggesting that there may not be a clear distinction between these two clusters.
+
+## Optimise Clusters with Principal Component Analysis
+   Using the original scaled DataFrame, perform a PCA and reduce the features to three principal components. According to the total explained variance of the three principal components is 90%. So, this is pretty       good. 
