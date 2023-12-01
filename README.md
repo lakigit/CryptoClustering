@@ -45,4 +45,5 @@ Based on the analysis, it can be seen that the columns price_change_percentage_2
 ![image](https://github.com/lakigit/CryptoClustering/assets/138610916/5c5505ac-acbe-4252-b851-69035529af1e)
 
 ### Comparison of Scatter Plot
-![image](https://github.com/lakigit/CryptoClustering/assets/138610916/8ddea908-cf99-4e0c-b1e7-c0c667b51291)
+![image](https://github.com/lakigit/CryptoClustering/assets/138610916/95886856-abac-4d7e-8e2e-d19342f20f27)
+
