@@ -25,4 +25,7 @@ In this challenge, use knowledge of Python and unsupervised learning to predict 
    Using the original scaled DataFrame, perform a PCA and reduce the features to three principal components.\ 
    According to the total explained variance of the three principal components is 90%. So, this is pretty good. 
 
-   To better understanding can find the contribution for each principal component for each column. 
+   To better understand can find the contribution for each principal component for each column.
+   
+   ![image](https://github.com/lakigit/CryptoClustering/assets/138610916/a479c4fe-76c6-42a7-968d-f44080b90174)
+
