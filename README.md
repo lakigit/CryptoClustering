@@ -22,4 +22,7 @@ In this challenge, use knowledge of Python and unsupervised learning to predict 
    However, upon closer inspection, it appears that the data points in cluster number 1 overlap with those in cluster number 0, suggesting that there may not be a clear distinction between these two clusters.
 
 ## Optimise Clusters with Principal Component Analysis
-   Using the original scaled DataFrame, perform a PCA and reduce the features to three principal components. According to the total explained variance of the three principal components is 90%. So, this is pretty       good. 
+   Using the original scaled DataFrame, perform a PCA and reduce the features to three principal components.\ 
+   According to the total explained variance of the three principal components is 90%. So, this is pretty good. 
+
+   To better understanding can find the contribution for each principal component for each column. 
