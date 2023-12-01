@@ -38,5 +38,11 @@ Based on the analysis, it can be seen that the columns price_change_percentage_2
 ## Cluster Cryptocurrencies with K-means Using the PCA Data
    After identifying the number of clusters, use K-Means to cluster the cryptocurrencies data.  
    ![image](https://github.com/lakigit/CryptoClustering/assets/138610916/bd65a965-ca71-49ca-a9df-8a9a8705d1fb)
-##### The impact of using fever features to cluster the data is it will clealy represent separated four clusters. Additionally, the data points are less dispersed or more closely gathered together
+##### The impact of using fever features to cluster the data is it will represent four clusters. Additionally, the data points are less dispersed or more closely gathered together
 
+## Compare the Results
+### Comparison of Elbow curve
+![image](https://github.com/lakigit/CryptoClustering/assets/138610916/5c5505ac-acbe-4252-b851-69035529af1e)
+
+### Comparison of Scatter Plot
+![image](https://github.com/lakigit/CryptoClustering/assets/138610916/8ddea908-cf99-4e0c-b1e7-c0c667b51291)
