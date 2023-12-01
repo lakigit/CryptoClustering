@@ -29,5 +29,4 @@ In this challenge, use knowledge of Python and unsupervised learning to predict 
    
    ![image](https://github.com/lakigit/CryptoClustering/assets/138610916/a479c4fe-76c6-42a7-968d-f44080b90174)
 
-   According to this, price_change_percentage_200d(59%), price_change_percentage_1y(57%) and price_change_percentage_24h(42%) make a bigger contribution to the first principal component. price_change_percentage_14d(54%), price_change_percentage_30d(56%) and price_change_percentage_60d(43%) make a high contribution to the second principal component. price_change_percentage_7d(79%) makes the bigger contribution to the third principal component. 
-
+Based on the analysis, it can be seen that the columns price_change_percentage_200d, price_change_percentage_1y, and price_change_percentage_24h contribute significantly to the first principal component with 59%, 57%, and 42%, respectively. Similarly, price_change_percentage_14d, price_change_percentage_30d, and price_change_percentage_60d make a high contribution to the second principal component with 54%, 56%, and 43%, respectively. Lastly, price_change_percentage_7d makes the biggest contribution of 79% to the third principal component.
