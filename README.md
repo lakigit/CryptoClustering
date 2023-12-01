@@ -42,7 +42,7 @@ Based on the analysis, it can be seen that the columns price_change_percentage_2
 
 ## Compare the Results
 ### Comparison of Elbow curve
-![image](https://github.com/lakigit/CryptoClustering/assets/138610916/5c5505ac-acbe-4252-b851-69035529af1e)
+![image](https://github.com/lakigit/CryptoClustering/assets/138610916/09e2ed87-15c4-444b-b209-7d9ea6675ffc)
 
 ### Comparison of Scatter Plot
 ![image](https://github.com/lakigit/CryptoClustering/assets/138610916/3effbe44-7f9a-42ba-a744-c15ae6b02054)
