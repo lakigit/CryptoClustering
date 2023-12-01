@@ -15,6 +15,8 @@ In this challenge, use knowledge of Python and unsupervised learning to predict 
 
 ## Cluster Cryptocurrencies with K-means Using the Original Scaled Data
    To identify clusters, first initialize the K-Means model, then fit it and predict the clusters. Finally, plot the output to visualize the clusters. 
+   
    ![image](https://github.com/lakigit/CryptoClustering/assets/138610916/8a129282-14a6-44a4-870d-2e7c2274aad7)
    
    However, if we can see four clusters cluster no 1 lay down on between cluster no 0. 
+   However, upon closer inspection, it appears that the data points in cluster number 1 overlap with those in cluster number 0, suggesting that there may not be a clear distinction between these two clusters.
